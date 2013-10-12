@@ -82,7 +82,7 @@ public class ItemizerPlugin extends JavaPlugin
 		}
 		else
 		{
-			sender.sendMessage(ChatColor.GOLD + "Itemizer version " + ChatColor.AQUA + getDescription().getVersion() + ChatColor.GOLD + " by " + ChatColor.AQUA + "Technius");
+			sender.sendMessage(ChatColor.GOLD + "Itemizer version " + ChatColor.AQUA + getDescription().getVersion() + ChatColor.GOLD + " by " + ChatColor.AQUA + "Blazingminer14/Blazethecoder");
 			sender.sendMessage(ChatColor.GOLD + "Type " + ChatColor.AQUA + "/itemizer help" + ChatColor.GOLD + " for help");
 		}
 		return true;
